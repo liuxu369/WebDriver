@@ -1,0 +1,2 @@
+1.下载active-python
+2.打开cmd，输入pip install selenium
